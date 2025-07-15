@@ -27,3 +27,5 @@ venv/
 *.swp
 .DS_Store
 Thumbs.db
+
+staticfiles
